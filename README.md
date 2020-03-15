@@ -1,3 +1,6 @@
+分布式ID生成对比:
+https://www.jianshu.com/p/2456c737aebb
+
 # redis_generator_id
 generator id by redis lua
 
